@@ -3,6 +3,11 @@
 A simple transaction system that maintains a wallet for each client.  
 Admins can credit/debit wallets, and clients can create orders that deduct balance and trigger a fulfillment API.
 
+
+All End-Point Testing on Postman - 
+
+LINK:
+https://assignment-1766.postman.co/workspace/assignment-Workspace~bc31010f-d916-43a4-8af7-21d4b425949e/collection/37660152-9dce8274-a9be-4de4-a2a5-d376d8656f22?action=share&creator=37660152&active-environment=37660152-c955f2c5-e2c8-485a-867d-474e891368a2
 ---
 
 ## 🚀 Tech Stack
