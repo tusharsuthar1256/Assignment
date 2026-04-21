@@ -21,6 +21,11 @@ https://assignment-1766.postman.co/workspace/assignment-Workspace~bc31010f-d916-
 ## 📁 Project Structure
 <img width="357" height="863" alt="image" src="https://github.com/user-attachments/assets/7cd08a12-a31e-4eb9-a737-b0d241052d76" />
 
+###Prompts during development
+
+1. Based on this end-point gives me command to create in this hierarchy of folder for end-points
+2. help me regarding making in-memory storage
+3. gives me bolierplate code for GET & POST request code for nextjs+tsx api-endpoints
 
 ---
 ## 🧠 Core Concepts
@@ -44,15 +49,6 @@ Each operation:
 1. Acquires a lock for the client
 2. Performs the wallet update
 3. Releases the lock
-
-Example:
-acquireLock(client_id)
-releaseLock(client_id)
-
-
-This ensures:
-- Safe balance updates
-- No inconsistent wallet states
 
 ---
 
@@ -104,9 +100,5 @@ Handled key edge cases:
 - Order not found
 - External API failure
 
-###Prompts during development
 
-1. Based on this end-point gives me command to create in this hierarchy of folder for end-points
-2. help me regarding making in-memory storage
-3. gives me bolierplate code for GET & POST request code for nextjs+tsx api-endpoints
 ---
